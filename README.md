@@ -24,19 +24,6 @@ MONetka to aplikacja SAPUI5 (freestyle), która umożliwia pracownikom resortu o
 
 ---
 
-## 🌐 Języki
-
-- 🇵🇱 **Polska wersja językowa**
-- 🇬🇧 **English version available**
-
----
-
-## ⚠️ Disclaimer
-
-> Projekt przeznaczony wyłącznie do celów demonstracyjnych. Przedstawione dane nie są rzeczywiste.
-
----
-
 # 💰 MONetka – Financial App for Polish Ministry of Defence 🇬🇧
 
 **MONetka** is a SAPUI5 (freestyle) application designed for soldiers and employees of the Ministry of National Defence. It provides a modern interface for viewing and analyzing salary and employment data in a secure and intuitive way.
@@ -63,14 +50,15 @@ MONetka to aplikacja SAPUI5 (freestyle), która umożliwia pracownikom resortu o
 
 ---
 
-## 🌐 Language Versions
+## 📸 Zrzuty ekranu / Screenshots
 
-- 🇵🇱 Polish
-- 🇬🇧 English
+Poniżej kilka widoków aplikacji.  
+Below are a few application views.
 
 ---
 
 ## ⚠️ Disclaimer
 
-> This project is intended for demonstration purposes only. All presented data is fictitious.
+>Projekt przeznaczony wyłącznie do celów demonstracyjnych. Przedstawione dane nie są rzeczywiste.
 
+>This project is intended for demonstration purposes only. All presented data is fictitious.
