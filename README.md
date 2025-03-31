@@ -55,6 +55,18 @@ MONetka to aplikacja SAPUI5 (freestyle), która umożliwia pracownikom resortu o
 Poniżej kilka widoków aplikacji.  
 Below are a few application views.
 
+### 🏠 Strona główna / Homepage
+
+![Homepage](screenshots/wynagrodzenie.png)
+
+### 📈 Przelewy / Income
+
+![Homepage](screenshots/przelewy.png)
+
+### 📊 Przelewy (wykres) / Income (chart)
+
+![Homepage](screenshots/przelewy_wykres.png)
+
 ---
 
 ## ⚠️ Disclaimer
