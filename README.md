@@ -67,6 +67,18 @@ Below are a few application views.
 
 ![Homepage](screenshots/przelewy_wykres.png)
 
+### 📊 Kalkulator / Calculator
+
+![Homepage](screenshots/kalkulator.png)
+
+### 📊 Symulacja wynagrodzenia / Salary simulation
+
+![Homepage](screenshots/symulacja.png)
+
+### 📊 FAQ
+
+![Homepage](screenshots/faq.png)
+
 ---
 
 ## ⚠️ Disclaimer
